@@ -1,0 +1,13 @@
+*.ipynb_checkpoints/
+*__pycache__/
+*_build/
+*.nbgrader.log
+*.swp
+*.DS_Store
+*octave-workspace
+*.egg-info/
+*.aux
+*.log
+*.pyc
+geckodriver.log
+.vscode/
